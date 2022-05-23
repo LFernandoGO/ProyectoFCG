@@ -1,0 +1,81 @@
+newmtl Boca:Tex_0016_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0016_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Cola:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Cuerpo:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Cuerpo:Tex_0016_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0016_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Cuerpo:Tex_0017_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0017_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl DelDer:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl DelIzq:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl TrasDer:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl TrasIzq:Tex_0015_0_dds_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0015_0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
