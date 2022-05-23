@@ -1,0 +1,126 @@
+newmtl AlaDer:Mesh_0340_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0057_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl AlaDer1:Mesh_0340_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0057_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl AlaIzq:Mesh_1100_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0057_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl AlaIzq1:Mesh_1100_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0057_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza:Mesh_0325_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza:Mesh_0826_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza:Mesh_0863_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0075_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza:Mesh_1301_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0055_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza1:Mesh_0325_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza1:Mesh_0826_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza1:Mesh_0863_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0075_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabeza1:Mesh_1301_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0055_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl PteroCuerpo:Mesh_1301_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0055_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl PteroCuerpo1:Mesh_1301_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0055_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
