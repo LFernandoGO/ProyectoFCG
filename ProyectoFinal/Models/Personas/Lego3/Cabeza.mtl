@@ -1,0 +1,90 @@
+newmtl Cabeza4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl Cabeza4:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd face_Nikita.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl Cuerpo4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl Cuerpo4:blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd halat.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl lHand4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl lHand4:HandsShader2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Mano.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl lPie4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl rHand4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl rHand4:HandsShader2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Mano.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl rPie4:HandsShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Piel.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
